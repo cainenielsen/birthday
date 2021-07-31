@@ -62,7 +62,14 @@ export default {
         "What sort of birthday cake do ghosts prefer? An 'I scream' cake.",
         "You know you're getting old when you go to an antique auction and three people bid on you.",
         "FR E SH A VOCA DO",
-        ""
+        "I need wine",
+        "Honey, where are my pants?",
+        "One does not simply 'have a birthday'",
+        "Why is the rum gone?",
+        "I'm gonna need to ask you to come in on Saturday, that'd be great.",
+        "It only comes once a year",
+        "Stay gangster!",
+        
       ],
       palletes: [
         ["#EFB0C9", "#F4C2D7", "#F8DAE9", "#B9D6F3", "#A1C9F1", "#F1E8D9"]
