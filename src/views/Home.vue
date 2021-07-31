@@ -71,7 +71,6 @@ export default {
         "Stay gangster!",
         "I can't wait to be less than 6 feet away from you! Happy birthday!",
         "Happy Birthday! Don't forget to iron that birthday suit.",
-        "Those aren't gray hairs that you see. They're strands of birthday glitter growing out of your head.",
         "Don't let aging get you down. It's too hard to get up again!",
         "Q: What goes up and never comes down? A: Your age!",
       ],
