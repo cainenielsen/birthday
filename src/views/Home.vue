@@ -69,7 +69,12 @@ export default {
         "I'm gonna need to ask you to come in on Saturday, that'd be great.",
         "It only comes once a year",
         "Stay gangster!",
-        
+        "I can't wait to be less than 6 feet away from you! Happy birthday!",
+        "Happy Birthday! Don't forget to iron that birthday suit.",
+        "Those aren't gray hairs that you see. They're strands of birthday glitter growing out of your head.",
+        "Don't let aging get you down. It's too hard to get up again!",
+        "Q: What goes up and never comes down? A: Your age!",
+        ""
       ],
       palletes: [
         ["#EFB0C9", "#F4C2D7", "#F8DAE9", "#B9D6F3", "#A1C9F1", "#F1E8D9"]
